@@ -1,0 +1,14 @@
+button {
+    background-color: #f0f0f0;
+    border: 1px solid #959393;
+    border-radius: 4px;
+    padding: 5px 10px;
+    margin-right: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+div {
+    margin-top: 10px;
+    margin-left: 8px;
+}
